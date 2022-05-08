@@ -1,0 +1,43 @@
+[33m5c5ad8f[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m HEAD@{0}: reset: moving to HEAD@{5}
+[33m5c5ad8f[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m HEAD@{1}: reset: moving to HEAD@{4}
+[33me9bad7e[m HEAD@{2}: reset: moving to HEAD@{1}
+[33mf094df3[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m HEAD@{3}: reset: moving to HEAD@{1}
+[33me9bad7e[m HEAD@{4}: reset: moving to HEAD@{3}
+[33mf094df3[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m HEAD@{5}: commit (merge): sdasda
+[33m5c5ad8f[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m HEAD@{6}: reset: moving to HEAD
+[33m5c5ad8f[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m HEAD@{7}: commit: sdasda
+[33me9bad7e[m HEAD@{8}: reset: moving to HEAD
+[33me9bad7e[m HEAD@{9}: reset: moving to HEAD
+[33me9bad7e[m HEAD@{10}: reset: moving to HEAD
+[33me9bad7e[m HEAD@{11}: reset: moving to HEAD
+[33me9bad7e[m HEAD@{12}: reset: moving to HEAD
+[33me9bad7e[m HEAD@{13}: commit: sadsd
+[33m5648d1e[m HEAD@{14}: reset: moving to HEAD
+[33m5648d1e[m HEAD@{15}: pull: Fast-forward
+[33maa3c2aa[m HEAD@{16}: reset: moving to HEAD
+[33maa3c2aa[m HEAD@{17}: commit: fix
+[33mfa3c0ca[m HEAD@{18}: commit: back side end
+[33md70a00b[m HEAD@{19}: commit: deleted
+[33m6eace0b[m HEAD@{20}: commit: back side
+[33m2f8dab2[m HEAD@{21}: commit (merge): back
+[33meef43c3[m HEAD@{22}: commit: back
+[33m84913fe[m HEAD@{23}: commit: ngmodel,login,logout,jwt user
+[33m1c5cb0b[m HEAD@{24}: commit: login logout
+[33m7e9aa7c[m HEAD@{25}: pull: Fast-forward
+[33mdff8480[m HEAD@{26}: pull: Fast-forward
+[33m5538d8c[m HEAD@{27}: reset: moving to HEAD
+[33m5538d8c[m HEAD@{28}: commit: auth component
+[33m9960882[m HEAD@{29}: commit: created auth window component
+[33m4b0129c[m HEAD@{30}: pull: Fast-forward
+[33mdb0ef73[m HEAD@{31}: reset: moving to HEAD
+[33mdb0ef73[m HEAD@{32}: commit: fixed style
+[33m433ff4d[m HEAD@{33}: pull: Fast-forward
+[33md9b541b[m HEAD@{34}: reset: moving to HEAD
+[33md9b541b[m HEAD@{35}: pull: Fast-forward
+[33ma2fb7e6[m HEAD@{36}: reset: moving to HEAD
+[33ma2fb7e6[m HEAD@{37}: commit: сделал верхний welcome-banner-slide
+[33mb243e7f[m HEAD@{38}: commit: created&made top-bar component
+[33m2010857[m HEAD@{39}: pull: Merge made by the 'recursive' strategy.
+[33m6479627[m HEAD@{40}: commit: test
+[33m067b719[m HEAD@{41}: merge origin/master: Fast-forward
+[33m83f6824[m HEAD@{42}: clone: from https://github.com/Darkhan17/WEB-DEV.git
